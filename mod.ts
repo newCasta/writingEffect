@@ -1,0 +1,1 @@
+export { writeEffectLog } from './writingEffect.ts'
